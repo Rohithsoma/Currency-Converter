@@ -45,13 +45,13 @@ CurrencyConverter/
 🚀 How to Run the Project
 
 	1.	Clone the Repository
- git clone https://github.com/Rohithsoma/Currency-Converter.git 
+git clone https://github.com/Rohithsoma/Currency-Converter.git 
 cd Currency-Converter
 
-2.	Compile the Java Files   
+      2.	Compile the Java Files   
 javac CurrencyConverter.java
-
-3. Run the Application
+       
+       3. Run the Application
 
    java CurrencyConverter
 
@@ -60,3 +60,8 @@ javac CurrencyConverter.java
 🔹 Integrate with an API for real-time exchange rates (e.g., Open Exchange Rates API)
 🔹 Dark Mode Support for better UI experience
 🔹 Save past conversions for user reference
+
+#Sample Output WebPage of the Currency Converter
+
+<img width="339" alt="CurrencyConverter" src="https://github.com/user-attachments/assets/ab36fc31-cfe1-425d-ac65-3149d44ff448" />
+
